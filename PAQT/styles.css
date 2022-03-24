@@ -1,4 +1,5 @@
 
+
 body {
     font-family: "Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     /* background: #eeeeee; */
@@ -77,14 +78,6 @@ h1 {
 
 /* FORM STUFF */
 
-.start-form {
-    display: flex;
-    flex-direction: column;
-    
-
-}
-
-
 form {
     width: 100%;
     margin: 0;
@@ -119,15 +112,9 @@ form .button {
 
 }
 
-.names {
-    display: flex;
-   
+
+.forgot-password {
+    text-decoration: none;
+    color: #757575;
+    font-weight: 400;
 }
-
-.names div {
-    margin-right: 1em;
-}
-
-
-
-
