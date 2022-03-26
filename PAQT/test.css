@@ -22,6 +22,7 @@ body{
     height: 70px;
     border-bottom: 3px solid #757575;
     border-bottom: 3px solid rgba(0,0,0,0.05);
+    
 } 
 
 .topFixedBar .logo-title {
@@ -57,7 +58,7 @@ body{
     padding: 0.2em 0.8em;
     border: none;
     border-radius: 0.5em;
-    margin-left: 1400px;
+    margin-left: 1430px;
   } 
   
 
@@ -226,5 +227,28 @@ body{
 .column3:hover {
     color: #C70020;
   }
-  
-  
+
+.dots {
+  color: #9e9e9e ;
+  margin-left: 1750px;
+  margin-top: -35px;
+  font-size: 1.5em;
+}
+
+.notification {
+  color:#9e9e9e;
+  margin-left: 1780px;
+  margin-top: -32px;
+  font-size: 2em;
+  padding-left: 15px ;
+  border-left: solid #eee 3px;
+}
+
+.img {
+  margin-left: 1830px;
+  margin-top: -48px;
+  font-size: 2em;
+}
+
+
+
