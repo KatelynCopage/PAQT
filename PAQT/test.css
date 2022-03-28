@@ -29,7 +29,7 @@ body{
   display: flex;
   align-items: center;
   margin-left: 1em;
-  margin-top: 0.8em;
+  margin-top: 0.5em;
 }
 
 .topFixedBar .logo-title h2 {
@@ -58,7 +58,7 @@ body{
     padding: 0.2em 0.8em;
     border: none;
     border-radius: 0.5em;
-    margin-left: 80.375em;
+    margin-left: 58.575em;
   } 
   
 
@@ -230,14 +230,14 @@ body{
 
 .dots {
   color: #9e9e9e ;
-  margin-left: 72.875em;
+  margin-left: 56.875em;
   margin-top: -1.4em;
   font-size: 1.5em;
 }
 
 .notification {
   color:#9e9e9e;
-  margin-left: 55.5em;
+  margin-left: 43.8em;
   margin-top: -1em;
   font-size: 2em;
   padding-left: 15px ;
@@ -245,7 +245,7 @@ body{
 }
 
 .img {
-  margin-left: 57.2em;
+  margin-left: 45.6em;
   margin-top: -1.5em;
   font-size: 2em;
 }
